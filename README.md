@@ -278,6 +278,9 @@ This project demonstrates how customer review data can be leveraged to uncover i
 By combining **Python-based exploratory analysis with an interactive Tableau dashboard**, the project highlights the value of data analytics in understanding customer satisfaction and market dynamics.
 
 
+# Link to Dashboard
+https://public.tableau.com/views/Sephora_17736634063250/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Future Improvements
 
 Potential extensions to this analysis include:
